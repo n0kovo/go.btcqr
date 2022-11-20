@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"rsc.io/qr"
+	"github.com/rsc/qr"
 )
 
 var (
